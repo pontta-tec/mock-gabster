@@ -1,0 +1,146 @@
+{
+  "meta": {
+    "total_count": "27",
+    "IAM_unidade_id": "320",
+    "IAM_dominio_id": "310",
+    "limit": 30,
+    "offset": 0
+  },
+  "objects": [
+    {
+      "id": "1",
+      "nome": "Centímetro",
+      "sigla": "cm"
+    },
+    {
+      "id": "2",
+      "nome": "Metro",
+      "sigla": "m"
+    },
+    {
+      "id": "3",
+      "nome": "Milimetros",
+      "sigla": "mm"
+    },
+    {
+      "id": "4",
+      "nome": "Metro Quadrado",
+      "sigla": "m2"
+    },
+    {
+      "id": "5",
+      "nome": "Chapa",
+      "sigla": "ch"
+    },
+    {
+      "id": "6",
+      "nome": "Unidade",
+      "sigla": "un"
+    },
+    {
+      "id": "7",
+      "nome": "Barra",
+      "sigla": "br"
+    },
+    {
+      "id": "8",
+      "nome": "Base",
+      "sigla": "bs"
+    },
+    {
+      "id": "9",
+      "nome": "Bisnaga",
+      "sigla": "bisn"
+    },
+    {
+      "id": "10",
+      "nome": "Caixa",
+      "sigla": "cx"
+    },
+    {
+      "id": "11",
+      "nome": "Cento",
+      "sigla": "ct"
+    },
+    {
+      "id": "13",
+      "nome": "Gramas",
+      "sigla": "gr"
+    },
+    {
+      "id": "14",
+      "nome": "Hora",
+      "sigla": "hr"
+    },
+    {
+      "id": "15",
+      "nome": "Hora/Homem",
+      "sigla": "hrh"
+    },
+    {
+      "id": "16",
+      "nome": "Hora/Máquina",
+      "sigla": "hrm"
+    },
+    {
+      "id": "17",
+      "nome": "Quilograma",
+      "sigla": "kg"
+    },
+    {
+      "id": "18",
+      "nome": "Lata",
+      "sigla": "lt"
+    },
+    {
+      "id": "19",
+      "nome": "Litro",
+      "sigla": "l"
+    },
+    {
+      "id": "21",
+      "nome": "Metro cubico",
+      "sigla": "m3"
+    },
+    {
+      "id": "22",
+      "nome": "Mililitro",
+      "sigla": "mm"
+    },
+    {
+      "id": "23",
+      "nome": "Minuto",
+      "sigla": "min"
+    },
+    {
+      "id": "24",
+      "nome": "Peça",
+      "sigla": "pc"
+    },
+    {
+      "id": "25",
+      "nome": "Rolo",
+      "sigla": "rl"
+    },
+    {
+      "id": "26",
+      "nome": "Saco",
+      "sigla": "sc"
+    },
+    {
+      "id": "27",
+      "nome": "Toneada",
+      "sigla": "tol"
+    },
+    {
+      "id": "28",
+      "nome": "Unidade",
+      "sigla": "un"
+    },
+    {
+      "id": "29",
+      "nome": "Unidade de produção",
+      "sigla": "unpro"
+    }
+  ]
+}

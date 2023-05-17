@@ -1,0 +1,22 @@
+{
+  "meta": {
+    "IAM_unidade_id": "320",
+    "IAM_dominio_id": "310",
+    "limit": 30,
+    "offset": 0
+  },
+  "objects": {
+    "id": "166008",
+    "datahora_cadastro": "2023-05-08 15:40:41",
+    "IAM_dominio_id": "310",
+    "IAM_unidade_id": "320",
+    "VIA_cliente_id": "118",
+    "nome": "balcao - furações",
+    "descricao": "",
+    "observacao": "",
+    "orcamentos": [
+      "11835"
+    ],
+    "status": "Vendido"
+  }
+}

@@ -1,0 +1,531 @@
+{
+  "meta": {
+    "total_count": "3000",
+    "IAM_unidade_id": "320",
+    "IAM_dominio_id": "310",
+    "limit": "3000",
+    "offset": 0
+  },
+  "objects": [
+    {
+      "id": "11467",
+      "TRA_projeto_id": "165634",
+      "datahora_cadastro": "2023-04-19 15:57:29",
+      "valor_bruto": "0.00",
+      "valor_desconto": "0.00",
+      "valor_frete": "0.00",
+      "valor_adicional": "0.00",
+      "valor_liquido": "0.00"
+    },
+    {
+      "id": "11495",
+      "TRA_projeto_id": "165664",
+      "datahora_cadastro": "2023-04-21 11:48:01",
+      "valor_bruto": "0.82",
+      "valor_desconto": "0.00",
+      "valor_frete": "0.00",
+      "valor_adicional": "0.00",
+      "valor_liquido": "0.82"
+    },
+    {
+      "id": "11496",
+      "TRA_projeto_id": "165665",
+      "datahora_cadastro": "2023-04-21 14:08:31",
+      "valor_bruto": "0.82",
+      "valor_desconto": "0.00",
+      "valor_frete": "0.00",
+      "valor_adicional": "0.00",
+      "valor_liquido": "0.82"
+    },
+    {
+      "id": "11550",
+      "TRA_projeto_id": "165721",
+      "datahora_cadastro": "2023-04-26 11:57:38",
+      "valor_bruto": "0.84",
+      "valor_desconto": "0.00",
+      "valor_frete": "0.00",
+      "valor_adicional": "0.00",
+      "valor_liquido": "0.84"
+    },
+    {
+      "id": "11630",
+      "TRA_projeto_id": "165804",
+      "datahora_cadastro": "2023-04-28 19:49:36",
+      "valor_bruto": "0.81",
+      "valor_desconto": "0.00",
+      "valor_frete": "0.00",
+      "valor_adicional": "0.00",
+      "valor_liquido": "0.81"
+    },
+    {
+      "id": "11687",
+      "TRA_projeto_id": "165861",
+      "datahora_cadastro": "2023-05-03 13:30:05",
+      "valor_bruto": "0.49",
+      "valor_desconto": "0.00",
+      "valor_frete": "0.00",
+      "valor_adicional": "0.00",
+      "valor_liquido": "0.49"
+    },
+    {
+      "id": "11688",
+      "TRA_projeto_id": "165862",
+      "datahora_cadastro": "2023-05-03 13:48:52",
+      "valor_bruto": "0.84",
+      "valor_desconto": "0.00",
+      "valor_frete": "0.00",
+      "valor_adicional": "0.00",
+      "valor_liquido": "0.84"
+    },
+    {
+      "id": "11689",
+      "TRA_projeto_id": "165863",
+      "datahora_cadastro": "2023-05-03 13:56:54",
+      "valor_bruto": "0.84",
+      "valor_desconto": "0.00",
+      "valor_frete": "0.00",
+      "valor_adicional": "0.00",
+      "valor_liquido": "0.84"
+    },
+    {
+      "id": "11696",
+      "TRA_projeto_id": "165870",
+      "datahora_cadastro": "2023-05-03 15:51:26",
+      "valor_bruto": "0.85",
+      "valor_desconto": "0.00",
+      "valor_frete": "0.00",
+      "valor_adicional": "0.00",
+      "valor_liquido": "0.85"
+    },
+    {
+      "id": "11701",
+      "TRA_projeto_id": "165877",
+      "datahora_cadastro": "2023-05-03 16:30:57",
+      "valor_bruto": "1.22",
+      "valor_desconto": "0.00",
+      "valor_frete": "0.00",
+      "valor_adicional": "0.00",
+      "valor_liquido": "1.22"
+    },
+    {
+      "id": "11704",
+      "TRA_projeto_id": "165880",
+      "datahora_cadastro": "2023-05-03 17:01:08",
+      "valor_bruto": "0.82",
+      "valor_desconto": "0.00",
+      "valor_frete": "0.00",
+      "valor_adicional": "0.00",
+      "valor_liquido": "0.82"
+    },
+    {
+      "id": "11707",
+      "TRA_projeto_id": "165883",
+      "datahora_cadastro": "2023-05-03 17:42:21",
+      "valor_bruto": "0.82",
+      "valor_desconto": "0.00",
+      "valor_frete": "0.00",
+      "valor_adicional": "0.00",
+      "valor_liquido": "0.82"
+    },
+    {
+      "id": "11708",
+      "TRA_projeto_id": "165883",
+      "datahora_cadastro": "2023-05-03 17:43:42",
+      "valor_bruto": "0.89",
+      "valor_desconto": "0.00",
+      "valor_frete": "0.00",
+      "valor_adicional": "0.00",
+      "valor_liquido": "0.89"
+    },
+    {
+      "id": "11724",
+      "TRA_projeto_id": "165900",
+      "datahora_cadastro": "2023-05-04 11:22:46",
+      "valor_bruto": "0.85",
+      "valor_desconto": "0.00",
+      "valor_frete": "0.00",
+      "valor_adicional": "0.00",
+      "valor_liquido": "0.85"
+    },
+    {
+      "id": "11731",
+      "TRA_projeto_id": "165906",
+      "datahora_cadastro": "2023-05-04 12:21:26",
+      "valor_bruto": "0.42",
+      "valor_desconto": "0.00",
+      "valor_frete": "0.00",
+      "valor_adicional": "0.00",
+      "valor_liquido": "0.42"
+    },
+    {
+      "id": "11732",
+      "TRA_projeto_id": "165907",
+      "datahora_cadastro": "2023-05-04 12:26:56",
+      "valor_bruto": "0.42",
+      "valor_desconto": "0.00",
+      "valor_frete": "0.00",
+      "valor_adicional": "0.00",
+      "valor_liquido": "0.42"
+    },
+    {
+      "id": "11733",
+      "TRA_projeto_id": "165908",
+      "datahora_cadastro": "2023-05-04 12:45:35",
+      "valor_bruto": "0.42",
+      "valor_desconto": "0.00",
+      "valor_frete": "0.00",
+      "valor_adicional": "0.00",
+      "valor_liquido": "0.42"
+    },
+    {
+      "id": "11735",
+      "TRA_projeto_id": "165910",
+      "datahora_cadastro": "2023-05-04 13:01:09",
+      "valor_bruto": "0.42",
+      "valor_desconto": "0.00",
+      "valor_frete": "0.00",
+      "valor_adicional": "0.00",
+      "valor_liquido": "0.42"
+    },
+    {
+      "id": "11736",
+      "TRA_projeto_id": "165911",
+      "datahora_cadastro": "2023-05-04 13:07:13",
+      "valor_bruto": "0.42",
+      "valor_desconto": "0.00",
+      "valor_frete": "0.00",
+      "valor_adicional": "0.00",
+      "valor_liquido": "0.42"
+    },
+    {
+      "id": "11738",
+      "TRA_projeto_id": "165914",
+      "datahora_cadastro": "2023-05-04 13:19:36",
+      "valor_bruto": "0.42",
+      "valor_desconto": "0.00",
+      "valor_frete": "0.00",
+      "valor_adicional": "0.00",
+      "valor_liquido": "0.42"
+    },
+    {
+      "id": "11740",
+      "TRA_projeto_id": "165916",
+      "datahora_cadastro": "2023-05-04 13:45:21",
+      "valor_bruto": "0.42",
+      "valor_desconto": "0.00",
+      "valor_frete": "0.00",
+      "valor_adicional": "0.00",
+      "valor_liquido": "0.42"
+    },
+    {
+      "id": "11746",
+      "TRA_projeto_id": "165922",
+      "datahora_cadastro": "2023-05-04 13:54:48",
+      "valor_bruto": "0.42",
+      "valor_desconto": "0.00",
+      "valor_frete": "0.00",
+      "valor_adicional": "0.00",
+      "valor_liquido": "0.42"
+    },
+    {
+      "id": "11747",
+      "TRA_projeto_id": "165923",
+      "datahora_cadastro": "2023-05-04 13:59:53",
+      "valor_bruto": "0.42",
+      "valor_desconto": "0.00",
+      "valor_frete": "0.00",
+      "valor_adicional": "0.00",
+      "valor_liquido": "0.42"
+    },
+    {
+      "id": "11749",
+      "TRA_projeto_id": "165925",
+      "datahora_cadastro": "2023-05-04 14:04:21",
+      "valor_bruto": "0.42",
+      "valor_desconto": "0.00",
+      "valor_frete": "0.00",
+      "valor_adicional": "0.00",
+      "valor_liquido": "0.42"
+    },
+    {
+      "id": "11751",
+      "TRA_projeto_id": "165927",
+      "datahora_cadastro": "2023-05-04 14:07:18",
+      "valor_bruto": "0.42",
+      "valor_desconto": "0.00",
+      "valor_frete": "0.00",
+      "valor_adicional": "0.00",
+      "valor_liquido": "0.42"
+    },
+    {
+      "id": "11756",
+      "TRA_projeto_id": "165932",
+      "datahora_cadastro": "2023-05-04 15:12:23",
+      "valor_bruto": "0.80",
+      "valor_desconto": "0.00",
+      "valor_frete": "0.00",
+      "valor_adicional": "0.00",
+      "valor_liquido": "0.80"
+    },
+    {
+      "id": "11766",
+      "TRA_projeto_id": "165941",
+      "datahora_cadastro": "2023-05-04 17:15:49",
+      "valor_bruto": "0.40",
+      "valor_desconto": "0.00",
+      "valor_frete": "0.00",
+      "valor_adicional": "0.00",
+      "valor_liquido": "0.40"
+    },
+    {
+      "id": "11769",
+      "TRA_projeto_id": "165944",
+      "datahora_cadastro": "2023-05-04 17:52:19",
+      "valor_bruto": "0.44",
+      "valor_desconto": "0.00",
+      "valor_frete": "0.00",
+      "valor_adicional": "0.00",
+      "valor_liquido": "0.44"
+    },
+    {
+      "id": "11770",
+      "TRA_projeto_id": "165945",
+      "datahora_cadastro": "2023-05-04 17:58:48",
+      "valor_bruto": "1.28",
+      "valor_desconto": "0.00",
+      "valor_frete": "0.00",
+      "valor_adicional": "0.00",
+      "valor_liquido": "1.28"
+    },
+    {
+      "id": "11835",
+      "TRA_projeto_id": "166008",
+      "datahora_cadastro": "2023-05-08 15:40:51",
+      "valor_bruto": "0.40",
+      "valor_desconto": "0.00",
+      "valor_frete": "0.00",
+      "valor_adicional": "0.00",
+      "valor_liquido": "0.40"
+    },
+    {
+      "id": "11841",
+      "TRA_projeto_id": "166014",
+      "datahora_cadastro": "2023-05-08 17:43:48",
+      "valor_bruto": "1.16",
+      "valor_desconto": "0.00",
+      "valor_frete": "0.00",
+      "valor_adicional": "0.00",
+      "valor_liquido": "1.16"
+    },
+    {
+      "id": "11898",
+      "TRA_projeto_id": "166069",
+      "datahora_cadastro": "2023-05-10 15:22:45",
+      "valor_bruto": "0.70",
+      "valor_desconto": "0.00",
+      "valor_frete": "0.00",
+      "valor_adicional": "0.00",
+      "valor_liquido": "0.70"
+    },
+    {
+      "id": "11912",
+      "TRA_projeto_id": "166084",
+      "datahora_cadastro": "2023-05-11 15:27:11",
+      "valor_bruto": "0.60",
+      "valor_desconto": "0.00",
+      "valor_frete": "0.00",
+      "valor_adicional": "0.00",
+      "valor_liquido": "0.60"
+    },
+    {
+      "id": "11914",
+      "TRA_projeto_id": "166084",
+      "datahora_cadastro": "2023-05-11 15:27:44",
+      "valor_bruto": "1160.99",
+      "valor_desconto": "0.00",
+      "valor_frete": "0.00",
+      "valor_adicional": "0.00",
+      "valor_liquido": "1160.99"
+    },
+    {
+      "id": "11925",
+      "TRA_projeto_id": "166096",
+      "datahora_cadastro": "2023-05-11 16:42:21",
+      "valor_bruto": "0.60",
+      "valor_desconto": "0.00",
+      "valor_frete": "0.00",
+      "valor_adicional": "0.00",
+      "valor_liquido": "0.60"
+    },
+    {
+      "id": "11926",
+      "TRA_projeto_id": "166097",
+      "datahora_cadastro": "2023-05-11 16:44:56",
+      "valor_bruto": "0.60",
+      "valor_desconto": "0.00",
+      "valor_frete": "0.00",
+      "valor_adicional": "0.00",
+      "valor_liquido": "0.60"
+    },
+    {
+      "id": "11933",
+      "TRA_projeto_id": "166105",
+      "datahora_cadastro": "2023-05-12 11:22:55",
+      "valor_bruto": "0.41",
+      "valor_desconto": "0.00",
+      "valor_frete": "0.00",
+      "valor_adicional": "0.00",
+      "valor_liquido": "0.41"
+    },
+    {
+      "id": "11947",
+      "TRA_projeto_id": "166120",
+      "datahora_cadastro": "2023-05-15 10:35:06",
+      "valor_bruto": "0.70",
+      "valor_desconto": "0.00",
+      "valor_frete": "0.00",
+      "valor_adicional": "0.00",
+      "valor_liquido": "0.70"
+    },
+    {
+      "id": "11948",
+      "TRA_projeto_id": "166121",
+      "datahora_cadastro": "2023-05-15 11:12:14",
+      "valor_bruto": "0.70",
+      "valor_desconto": "0.00",
+      "valor_frete": "0.00",
+      "valor_adicional": "0.00",
+      "valor_liquido": "0.70"
+    },
+    {
+      "id": "11953",
+      "TRA_projeto_id": "166126",
+      "datahora_cadastro": "2023-05-15 13:30:17",
+      "valor_bruto": "0.70",
+      "valor_desconto": "0.00",
+      "valor_frete": "0.00",
+      "valor_adicional": "0.00",
+      "valor_liquido": "0.70"
+    },
+    {
+      "id": "11954",
+      "TRA_projeto_id": "166127",
+      "datahora_cadastro": "2023-05-15 13:39:08",
+      "valor_bruto": "0.68",
+      "valor_desconto": "0.00",
+      "valor_frete": "0.00",
+      "valor_adicional": "0.00",
+      "valor_liquido": "0.68"
+    },
+    {
+      "id": "11955",
+      "TRA_projeto_id": "166128",
+      "datahora_cadastro": "2023-05-15 13:55:56",
+      "valor_bruto": "2.06",
+      "valor_desconto": "0.00",
+      "valor_frete": "0.00",
+      "valor_adicional": "0.00",
+      "valor_liquido": "2.06"
+    },
+    {
+      "id": "11956",
+      "TRA_projeto_id": "166129",
+      "datahora_cadastro": "2023-05-15 14:09:35",
+      "valor_bruto": "2.05",
+      "valor_desconto": "0.00",
+      "valor_frete": "0.00",
+      "valor_adicional": "0.00",
+      "valor_liquido": "2.05"
+    },
+    {
+      "id": "11958",
+      "TRA_projeto_id": "166131",
+      "datahora_cadastro": "2023-05-15 14:26:39",
+      "valor_bruto": "0.67",
+      "valor_desconto": "0.00",
+      "valor_frete": "0.00",
+      "valor_adicional": "0.00",
+      "valor_liquido": "0.67"
+    },
+    {
+      "id": "11960",
+      "TRA_projeto_id": "166133",
+      "datahora_cadastro": "2023-05-15 14:33:33",
+      "valor_bruto": "0.67",
+      "valor_desconto": "0.00",
+      "valor_frete": "0.00",
+      "valor_adicional": "0.00",
+      "valor_liquido": "0.67"
+    },
+    {
+      "id": "11961",
+      "TRA_projeto_id": "166134",
+      "datahora_cadastro": "2023-05-15 14:52:14",
+      "valor_bruto": "0.67",
+      "valor_desconto": "0.00",
+      "valor_frete": "0.00",
+      "valor_adicional": "0.00",
+      "valor_liquido": "0.67"
+    },
+    {
+      "id": "11962",
+      "TRA_projeto_id": "166135",
+      "datahora_cadastro": "2023-05-15 14:55:04",
+      "valor_bruto": "0.68",
+      "valor_desconto": "0.00",
+      "valor_frete": "0.00",
+      "valor_adicional": "0.00",
+      "valor_liquido": "0.68"
+    },
+    {
+      "id": "11963",
+      "TRA_projeto_id": "166136",
+      "datahora_cadastro": "2023-05-15 15:02:37",
+      "valor_bruto": "0.70",
+      "valor_desconto": "0.00",
+      "valor_frete": "0.00",
+      "valor_adicional": "0.00",
+      "valor_liquido": "0.70"
+    },
+    {
+      "id": "11964",
+      "TRA_projeto_id": "166137",
+      "datahora_cadastro": "2023-05-15 15:21:56",
+      "valor_bruto": "0.70",
+      "valor_desconto": "0.00",
+      "valor_frete": "0.00",
+      "valor_adicional": "0.00",
+      "valor_liquido": "0.70"
+    },
+    {
+      "id": "11965",
+      "TRA_projeto_id": "166138",
+      "datahora_cadastro": "2023-05-15 15:27:14",
+      "valor_bruto": "0.70",
+      "valor_desconto": "0.00",
+      "valor_frete": "0.00",
+      "valor_adicional": "0.00",
+      "valor_liquido": "0.70"
+    },
+    {
+      "id": "11969",
+      "TRA_projeto_id": "166142",
+      "datahora_cadastro": "2023-05-15 17:22:27",
+      "valor_bruto": "0.70",
+      "valor_desconto": "0.00",
+      "valor_frete": "0.00",
+      "valor_adicional": "0.00",
+      "valor_liquido": "0.70"
+    },
+    {
+      "id": "11970",
+      "TRA_projeto_id": "166143",
+      "datahora_cadastro": "2023-05-15 17:26:14",
+      "valor_bruto": "0.70",
+      "valor_desconto": "0.00",
+      "valor_frete": "0.00",
+      "valor_adicional": "0.00",
+      "valor_liquido": "0.70"
+    }
+  ]
+}

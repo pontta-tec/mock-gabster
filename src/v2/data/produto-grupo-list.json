@@ -1,0 +1,18 @@
+{
+  "meta": {
+    "total_count": "1",
+    "IAM_unidade_id": "320",
+    "IAM_dominio_id": "310",
+    "limit": 30,
+    "offset": 0
+  },
+  "objects": [
+    {
+      "id": "159",
+      "IAM_dominio_id": "310",
+      "nome": "Braci",
+      "IAM_unidade_destino_padrao_id": "320",
+      "datahora_desativacao": null
+    }
+  ]
+}

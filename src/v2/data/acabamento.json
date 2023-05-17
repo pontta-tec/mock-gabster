@@ -1,0 +1,21 @@
+{
+  "meta": {
+    "IAM_unidade_id": "135",
+    "IAM_dominio_id": "205"
+  },
+  "object": {
+    "id": "58564",
+    "IAM_dominio_id": "205",
+    "nome": "Metal Fosco",
+    "url_preview": "materiais/gabster_marcenaria/1629222636.png",
+    "altura": "300.00",
+    "largura": "300.00",
+    "opacidade": "100",
+    "referencia": "TESTE1",
+    "veio": "0",
+    "acabamento_original_id": null,
+    "datahora_desativacao": null,
+    "versao": "1.00",
+    "aplicavel": "1"
+  }
+}

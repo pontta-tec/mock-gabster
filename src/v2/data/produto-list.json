@@ -1,0 +1,59 @@
+{
+  "meta": {
+    "total_count": "1",
+    "IAM_unidade_id": "320",
+    "IAM_dominio_id": "310",
+    "limit": 30,
+    "offset": 0
+  },
+  "objects": [
+    {
+      "id": "1361123",
+      "nome": "Lateral",
+      "IAM_dominio_id": "205",
+      "tipo_produto": "FABRICADO",
+      "VIA_unidade_medida_id": "2",
+      "VIA_produto_grupo_id": "86",
+      "referencia": "lat",
+      "slug": "lat",
+      "datahora_desativacao": null,
+      "ordem_medidas": "LxAxP"
+    },
+    {
+      "id": "1361124",
+      "nome": "Topo",
+      "IAM_dominio_id": "205",
+      "tipo_produto": "FABRICADO",
+      "VIA_unidade_medida_id": "2",
+      "VIA_produto_grupo_id": "86",
+      "referencia": "lat",
+      "slug": "lat",
+      "datahora_desativacao": null,
+      "ordem_medidas": "LxAxP"
+    },
+    {
+      "id": "1361125",
+      "nome": "Banco",
+      "IAM_dominio_id": "205",
+      "tipo_produto": "FABRICADO",
+      "VIA_unidade_medida_id": "2",
+      "VIA_produto_grupo_id": "86",
+      "referencia": "lat",
+      "slug": "lat",
+      "datahora_desativacao": null,
+      "ordem_medidas": "LxAxP"
+    },
+    {
+      "id": "1361126",
+      "nome": "Gaveta",
+      "IAM_dominio_id": "205",
+      "tipo_produto": "FABRICADO",
+      "VIA_unidade_medida_id": "2",
+      "VIA_produto_grupo_id": "86",
+      "referencia": "lat",
+      "slug": "lat",
+      "datahora_desativacao": null,
+      "ordem_medidas": "LxAxP"
+    }
+  ]
+}
